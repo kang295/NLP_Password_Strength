@@ -11,6 +11,7 @@ This project employs a variety of Python libraries, each serving a specific role
 
 - **Pandas & Numpy:** For efficient data manipulation and numerical computations.
 - **Sklearn:** For implementing and evaluating machine learning models.
+- **Seaborn:** simplifiying the process of creating complex visualizations and integrates well with Pandas data structures.
 - **Matplotlib & Seaborn:** For data visualization and graphical representation of insights.
 
 ## Model Accuracy
