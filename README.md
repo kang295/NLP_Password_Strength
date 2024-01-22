@@ -17,5 +17,6 @@ This project employs a variety of Python libraries, each serving a specific role
 ## Model Accuracy
 The following screenshot highlights the accuracy of a predictive model. These metrics are crucial in understanding the performance and reliability of our solution:
 
+<img width="491" alt="Screenshot 2024-01-22 at 1 13 19 PM" src="https://github.com/kang295/NLP_Password_Strength/assets/71005886/1d7ad6cd-eadf-40e2-aa9d-b9937db25458">
 
 ## Reference: Udemy
